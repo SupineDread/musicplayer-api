@@ -1,0 +1,26 @@
+{
+  "name": "musicplayer-api",
+  "version": "1.0.0",
+  "description": "API for a music player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SupineDread/musicplayer-api.git"
+  },
+  "keywords": [
+    "Music",
+    "Udemy",
+    "Music",
+    "Player",
+    "API"
+  ],
+  "author": "DevHF.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SupineDread/musicplayer-api/issues"
+  },
+  "homepage": "https://github.com/SupineDread/musicplayer-api#readme"
+}
