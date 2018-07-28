@@ -1,1 +1,2 @@
-# musicplayer-api
+# Music Player API
+> DevHF.io
